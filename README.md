@@ -112,7 +112,7 @@ DeepLabV3+ achieved the highest pixel-level segmentation performance, while SegF
 ### U-Net
 
 <p align="center">
-  <img src="images/unet_results.png" width="800">
+  <img src="Images/unet_results.png" width="800">
 </p>
 
 ---
@@ -120,7 +120,7 @@ DeepLabV3+ achieved the highest pixel-level segmentation performance, while SegF
 ### DeepLabV3+
 
 <p align="center">
-  <img src="images/deeplab_results.png" width="800">
+  <img src="Images/deeplab_results.png" width="800">
 </p>
 
 ---
@@ -128,7 +128,7 @@ DeepLabV3+ achieved the highest pixel-level segmentation performance, while SegF
 ### SegFormer
 
 <p align="center">
-  <img src="images/segformer_results.png" width="800">
+  <img src="Images/segformer_results.png" width="800">
 </p>
 
 ---
