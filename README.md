@@ -9,7 +9,7 @@ This project implements and compares three state-of-the-art semantic segmentatio
 ## Project Pipeline
 
 <p align="center">
-  <img src="./images/pipeline.png" alt="Project Pipeline" width="100%">
+  <img src="images/Pipeline.png" alt="Project Pipeline" width="100%">
 </p>
 
 ---
