@@ -128,7 +128,7 @@ DeepLabV3+ achieved the highest pixel-level segmentation performance, while SegF
 ### SegFormer
 
 <p align="center">
-  <img src="Images/Segformer_prediction.png" width="800">
+  <img src="Images/SegFormer_prediction.png" width="800">
 </p>
 
 ---
